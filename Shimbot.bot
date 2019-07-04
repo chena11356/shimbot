@@ -1,0 +1,18 @@
+{
+    "name": "Shimbot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "9613ce80-9e55-11e9-b7b0-dd8875f5e3e7",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/alexchen/Desktop/Shimbot/Shimbot.bot"
+}
